@@ -1,0 +1,360 @@
+*{
+  font-family: 'Noto Sans KR', sans-serif;
+  list-style: none;
+  text-decoration: none;
+  border-collapse: collapse;
+  margin: 0px;
+  padding: 0px;
+  color: #000;
+}
+
+.wrap {
+  width: 1920px;
+  height: 6039px;
+  background-color: white;
+}
+
+.main {
+  width: 1280px;
+  height: 6039px;
+  margin: 0 auto;
+
+}
+
+.logo {
+  position: absolute;
+  width: 170px;
+  height: 70px;
+  margin-top: 70px;
+
+}
+
+.logo1 {
+  width: 70px;
+  height: 70px;
+  float: left;
+
+}
+
+.text1 {
+  display: flex;
+  margin-top: 15px;
+  justify-content: center;
+  font-size: 28px;
+
+}
+
+
+.nav {
+  position: absolute;
+  width: 414px;
+  height: 70px;
+  margin-top: 70px;
+  margin-left: 866px;
+
+}
+
+.nav1 {
+  color: #707070;
+}
+
+li {
+  display: flex;
+  justify-content: center;
+  font-size: 28px;
+  float: right;
+  padding-left: 20px;
+  margin-top: 16px;
+
+}
+
+.main1 {
+  text-align: center;
+  margin-left: 51px;
+  position: absolute;
+  width: 1178px;
+  height: 140px;
+  margin-top: 323px;
+
+  z-index: 1;
+}
+
+.main2 {
+ font-size:40px;
+}
+
+.main3 {
+  margin-top: 5px;
+  font-size:24px;
+  color: #707070;
+
+ }
+
+
+
+.bigbox {
+
+position: absolute;
+margin-top: 674px;
+width: 1280px;
+height: 4535px;
+background: blue;
+
+}
+
+
+.text {
+  text-align: center;
+  margin-top: 68px;
+  font-size: 40px;
+}
+
+.bigpic {
+  margin-top: 30px;
+  width: 1280px;
+  height: 400px;
+
+}
+
+.pic1 {
+  float: inline-start;
+  width: 620px;
+  height: 400px;
+  background: cornflowerblue;
+} 
+
+.pic2 {
+  float: inline-end;
+  width: 620px;
+  height: 400px;
+  background: darkblue
+} 
+
+.pic3 {
+  margin: auto;
+  width: 620px;
+  height: 400px;
+  background: darkblue
+} 
+
+.bigbox > img {
+  width: 620px;
+  height: 400px;
+}
+
+.text01 {
+  display: inline-block;
+  width: 620px;
+  height: 26px;
+
+  margin-top: 44px;
+  text-align: center;
+}
+
+.text02 {
+  display: inline-block;
+  margin-left: 35px;
+  width: 620px;
+  height: 26px;
+
+  text-align: center;
+}
+
+.text03 {
+  margin: 0 auto;
+  margin-top: 44px;
+  width: 620px;
+  height: 26px;
+  text-align: center;
+
+}
+
+.text04 {
+  width: 775px;
+  height: 141px;
+  text-align: left;
+  margin: 0 auto;
+  margin-top: 66px;
+}
+
+.text05 {
+  margin: 0 auto;
+  margin-top: 137px;
+width: 400px;
+height: 161px;
+text-align: center;
+
+}
+
+.text06 {
+  font-size: 48px;
+}
+
+.text07 {
+  margin-top: 20pxv;
+  font-size: 20px;
+}
+
+.box1 {
+  position: absolute;
+  width: 1280px;
+  height: 907px;
+  background: #EBF5FF;
+  
+}
+
+.box2 {
+  margin-top: 907px;
+  position: absolute;
+  width: 1280px;
+  height: 907px;
+  background: #D9ECFF;
+  
+}
+
+.asd1 {
+
+  position: absolute;
+  margin-top: 674px;
+  width: 1920px;
+  height: 907px;
+  background: #EBF5FF;
+
+}
+
+
+.asd2 {
+
+  position: absolute;
+  margin-top: 1581px;
+  width: 1920px;
+  height: 907px;
+  background: #D9ECFF;
+
+}
+
+.asd3 {
+
+  position: absolute;
+  margin-top: 2488px;
+  width: 1920px;
+  height: 907px;
+  background: #EBF5FF;
+
+}
+
+
+.asd4 {
+
+  position: absolute;
+  margin-top: 3395px;
+  width: 1920px;
+  height: 907px;
+  background: #D9ECFF;
+
+}
+
+.asd5 {
+
+  position: absolute;
+  margin-top: 4302px;
+  width: 1920px;
+  height: 907px;
+  background: #EBF5FF;
+
+}
+
+.asd6 {
+
+  position: absolute;
+  margin-top: 5209px;
+  width: 1920px;
+  height: 428px;
+  background: salmon;
+
+}
+
+
+.box3 {
+  margin-top: 1814px;
+  position: absolute;
+  width: 1280px;
+  height: 907px;
+  background: #EBF5FF;
+  
+}
+
+.box4 {
+  margin-top: 2721px;
+  position: absolute;
+  width: 1280px;
+  height: 907px;
+  background: #D9ECFF;
+  
+}
+
+.box5 {
+  margin-top: 3628px;
+  position: absolute;
+  width: 1280px;
+  height: 907px;
+  background: #EBF5FF;
+  
+}
+
+.box6 {
+  margin-top: 4535px;
+  position: absolute;
+  width: 1280px;
+  height: 428px;
+  background: salmon;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.last {
+  position: absolute;
+  left: 320px;
+  top: 5849px;
+  width: 962px;
+  height: 107px;
+
+}
+
+.last1 {
+  width: 70px;
+  height: 70px;
+}
+
+.last2 {
+  position: absolute;
+  left: 110px;
+  top: 15px;
+  font-size: 28px;
+  width: 296px;
+  height: 40px;
+
+
+}
+
+.last3 {
+  position: absolute;
+  left: 430px;
+  top: 15px;
+  font-size: 20px;
+  width: 532px;
+  height: 78px;
+
+
+
+}
